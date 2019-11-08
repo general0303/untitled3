@@ -4,5 +4,6 @@ public class Main {
         System.out.print("123345");
         System.out.print("Petya, how are you?");
         int white_noise = 0;
+        System.out.print("jyfujtdutmdh");
     }
 }
