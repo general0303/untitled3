@@ -2,8 +2,8 @@ package com.company;
 public class Main {
     public static void Main(String[] args){
         System.out.print("123345");
-        System.out.print("Petya, how are you?");
-        int white_noise = 0;
-        System.out.print("jyfujtdutmdh");
+        int[] arr = new int[10];
+        for(int curr: arr)
+            System.out.print(curr + " ");
     }
 }
